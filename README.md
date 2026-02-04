@@ -1,2 +1,3 @@
 # CSC154_Armond_Sanchez
-Welcome to Branch2!!
+Hello Branch2!!
+Welcome to Branch1!
